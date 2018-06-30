@@ -1,2 +1,2 @@
 # OOP
-Here i'll try learn OOP
+Here I'll try learn OOP
