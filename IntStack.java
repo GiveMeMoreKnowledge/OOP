@@ -34,7 +34,7 @@ class Stack implements IntStack{
 }
 
 /* Example
-		Stack ds = new Stack(5);
+	Stack ds = new Stack(5);
         for(int i = 0; i < 20; i++) ds.push(i);
 
         System.out.println("Stack in ds: ");
